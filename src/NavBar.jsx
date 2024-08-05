@@ -8,6 +8,7 @@
        <li><a className="text-2xl ] max-md:hidden " href="#Home">Home</a></li>
        <li><a className="text-2xl ] max-md:hidden " href="#Work">Work</a></li>
        <li><a className="text-2xl ] max-md:hidden " href="#About">About</a></li>
+       <li><a className="text-2xl ] max-md:hidden " href="#Contact">Contact</a></li>
        </ul>
        <ul className='flex gap-6'>
        <li className='font-bold text-2xl ] max-md:hidden '><ion-icon name="logo-twitter"></ion-icon></li>
