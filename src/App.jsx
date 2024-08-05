@@ -3,6 +3,7 @@ import Nav from './NavBar';
 import  Header  from './Header'; 
 import About from './About';
 import Work from './Work';
+import Footer from './footer';
 
 
 
@@ -14,6 +15,7 @@ const App = () => {
       <Header/>
       <About/>
       <Work/>
+      <Footer/>
     </div>
   );
 }
