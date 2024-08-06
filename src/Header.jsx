@@ -18,8 +18,8 @@ text='Resume'/> */}
 <Button/>
 
 </div>
-  <div className='w-[40%] h-[80%] max-lg:w-[50%] '>
-<img src={chair} alt='Jhon' className='w-full h-full  rounded-full border-4 border-yellow-100' />
+  <div className='w-[40%] h-[100%] max-lg:w-[50%] border border-[#474306] rounded-full z-20 inset-0 relative  overflow-hidden'>
+<img src={chair} alt='Jhon' className='w-[95%] h-[90%]  rounded-br-[150%]  rounded-tl-[130%] rounded-[100%]  border-yellow-100 z-30  '  />
   </div>
   
 </div>
