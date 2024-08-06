@@ -24,7 +24,7 @@ export default function Work(){
   <div className='max-sm:pb-4'>
   <div >
       <img src={chair} alt='work-person'className='w-full h-full'/>
-      <h5 className='text-sm italic p-3'>November 24, 2019</h5>
+      <h5 className='text-sm italic py-3'>November 24, 2019</h5>
     </div>
     <div className='max-md:flex max-md:flex-col max-md:gap-3 '>
       <h3 className='text-xl font-bold max-md:text-center max-md:text-4xl'>Some Case Study</h3>
@@ -35,7 +35,7 @@ export default function Work(){
    <div>
    <div>
       <img src={work} alt='work-static'  className='w-full h-full'/>
-      <h5 className='text-sm italic p-3'>November 24, 2019</h5>
+      <h5 className='text-sm italic py-3'>November 24, 2019</h5>
     </div>
     <div className='max-md:flex max-md:flex-col max-md:gap-3 '>
       <h3 className='text-xl font-bold max-md:text-center max-md:text-4xl'>Some Case Study</h3>

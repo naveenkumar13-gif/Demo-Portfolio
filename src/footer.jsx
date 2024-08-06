@@ -4,7 +4,7 @@
   return(
     <div id='Contact' className=" px-16 py-16 max-md:px-8 max-md:py-8">
 <h1 className="text-[#f7f197] text-7xl leading-[1.1] font-extrabold pb-10  max-md:text-center">Contact</h1>
-    <div className='flex  gap-16 max-md:flex-col  max-xl:gap-8'>
+    <div className='flex  gap-14 max-md:flex-col  max-xl:gap-8'>
       <div className='w-full h-full  max-md:1/2 max-md:m-auto'>
         <img  src={Image} alt='contact-Work' className='w-full h-full'/>
       </div>
