@@ -1,4 +1,4 @@
- import Image from './chair/unsplash_2Xht5D22y0I.png'
+ import Image from '../chair/unsplash_2Xht5D22y0I.png'
  
  export default function Footer(){
   return(
